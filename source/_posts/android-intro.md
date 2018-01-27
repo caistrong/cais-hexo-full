@@ -40,7 +40,7 @@ date: 2018-01-26 19:13:00
 
 ```java
 public class HelloWorldActivity extends AppCompatActivity{
-    @override
+    @Override
     public void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hello_world_layout);
