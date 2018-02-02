@@ -70,3 +70,6 @@ HTML `<meta>` 元素表示那些不能由其它HTML元相关元素 (`<base>`, `<
 <script src="my-js-file.js"></script>
 ```
 注意： `<script>`元素看起来像一个空元素，但它并不是，因此需要一个结束标记。您还可以选择将脚本放入`<script>`元素中，而不是指向外部脚本文件
+
+#### 参考资料
+[关于meta那个viewport可以看这篇](https://www.cnblogs.com/2050/p/3877280.html)
