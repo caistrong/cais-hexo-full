@@ -2,7 +2,7 @@
 title: 安卓3种数据持久化方式
 date: 2018-01-27 20:06:11
 tags:
-    - 指南
+    - 安卓
 categories:
     - Android
 ---

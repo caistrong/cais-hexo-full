@@ -2,7 +2,7 @@
 title: 安卓的运行时权限
 date: 2018-01-27 20:37:04
 tags:
-    - 指南
+    - 安卓
 categories:
     - Android
 ---

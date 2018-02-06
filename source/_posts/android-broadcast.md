@@ -2,7 +2,7 @@
 title: 四大组件之Broadcast Receiver
 date: 2018-01-27 15:34:43
 tags:
-    - 指南
+    - 安卓
 categories:
     - Android
 ---

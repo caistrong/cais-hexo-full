@@ -2,7 +2,7 @@
 title: 安卓UI
 date: 2018-01-26 21:57:37
 tags:
-    - 指南
+    - 安卓
 categories:
     - Android
 ---

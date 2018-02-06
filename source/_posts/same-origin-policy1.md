@@ -41,6 +41,13 @@ categories:
 - API: location.*, window.open()
 
 ### iframe标签的同源限制
+
+**X-Frame-Options**
+```
+x-Frame-Options: DENY/SAMEORIGIN
+```
+HTTP响应报文首部可能会包含以上值，意思分别是拒绝响应主体被插在iframe标签里面，和仅允许同源域名下的页面用iframe把响应主体插在iframe标签里。
+
 DOM提供了一些API来让我们获取iframe的内容
 **在父页面获取iframe标签的内容**
 ```js

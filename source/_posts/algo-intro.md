@@ -2,7 +2,7 @@
 title: 算法概述
 date: 2018-01-27 21:12:55
 tags:
-    - 简介
+    - 引导
 categories:
     - 算法
 ---

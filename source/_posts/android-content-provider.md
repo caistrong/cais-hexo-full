@@ -2,7 +2,7 @@
 title: 四大组件之Content Provider
 date: 2018-01-27 20:46:47
 tags:
-    - 指南
+    - 安卓
 categories:
     - Android
 ---

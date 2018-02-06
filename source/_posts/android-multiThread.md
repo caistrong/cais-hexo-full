@@ -2,7 +2,7 @@
 title: 安卓多线程编程
 date: 2018-01-27 00:46:35
 tags:
-    - 指南
+    - 安卓
 categories:
     - Android
 ---

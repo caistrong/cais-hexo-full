@@ -2,7 +2,7 @@
 title: 四大组件之activity
 date: 2018-01-26 20:19:13
 tags:
-    - 指南
+    - 安卓
 categories:
     - Android
 ---
